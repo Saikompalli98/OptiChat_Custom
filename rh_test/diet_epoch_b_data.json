@@ -1,0 +1,149 @@
+{
+  "_comment": "Diet Epoch B — Month 2 (Summer). 11 foods, 7 nutrients. MILP.",
+  "_changes_from_epoch_a": {
+    "sets_foods_removed":    ["cornmeal"],
+    "sets_foods_added":      ["eggs", "yogurt"],
+    "sets_nutrients_added":  ["fiber"],
+    "params_requirements_changed": {
+      "iron":      "12 -> 15  (revised dietary guidelines)",
+      "vitamin-c": "75 -> 90  (revised dietary guidelines)",
+      "fiber":     "0  -> 25  (new nutrient requirement)"
+    },
+    "params_nutritive_values_changed": {
+      "wheat":   "all yields reduced ~15% (summer wheat price spike)",
+      "spinach": "all yields increased ~20% (summer harvest, price drop)"
+    },
+    "params_new":        ["max_serving", "calorie_max", "min_foods"],
+    "variables_added":   ["select[f] binary"],
+    "constraints_added": ["calorie_upper", "serving_link[f]", "min_variety"]
+  },
+
+  "nutrient_requirements": {
+    "calorie":   3,
+    "protein":  70,
+    "calcium":   0.8,
+    "iron":     15,
+    "vitamin-a": 5,
+    "vitamin-c": 90,
+    "fiber":    25
+  },
+
+  "nutritive_values": {
+    "wheat": {
+      "calorie":   38.0,
+      "protein":  1199,
+      "calcium":    1.7,
+      "iron":     310,
+      "vitamin-a":  0,
+      "vitamin-c":  0,
+      "fiber":    290
+    },
+    "cannedmilk": {
+      "calorie":    8.4,
+      "protein":   422,
+      "calcium":   15.1,
+      "iron":       9,
+      "vitamin-a": 26.0,
+      "vitamin-c": 60,
+      "fiber":      0
+    },
+    "cheese": {
+      "calorie":    7.4,
+      "protein":   448,
+      "calcium":   16.4,
+      "iron":      19,
+      "vitamin-a": 28.1,
+      "vitamin-c":  0,
+      "fiber":      0
+    },
+    "peanut-b": {
+      "calorie":   15.7,
+      "protein":   661,
+      "calcium":    1.0,
+      "iron":      48,
+      "vitamin-a":  0,
+      "vitamin-c":  0,
+      "fiber":    130
+    },
+    "liver": {
+      "calorie":    2.2,
+      "protein":   333,
+      "calcium":    0.2,
+      "iron":     139,
+      "vitamin-a":169.2,
+      "vitamin-c":525,
+      "fiber":      0
+    },
+    "potatoes": {
+      "calorie":   14.3,
+      "protein":   336,
+      "calcium":    1.8,
+      "iron":     118,
+      "vitamin-a":  6.7,
+      "vitamin-c":2522,
+      "fiber":    185
+    },
+    "spinach": {
+      "calorie":    1.3,
+      "protein":   127,
+      "calcium":    0.0,
+      "iron":     166,
+      "vitamin-a":1102.1,
+      "vitamin-c":3306,
+      "fiber":    105
+    },
+    "cabbage": {
+      "calorie":    2.6,
+      "protein":   125,
+      "calcium":    4.0,
+      "iron":      36,
+      "vitamin-a":  7.2,
+      "vitamin-c":5369,
+      "fiber":    285
+    },
+    "navybeans": {
+      "calorie":   26.9,
+      "protein":  1691,
+      "calcium":   11.4,
+      "iron":     792,
+      "vitamin-a":  0,
+      "vitamin-c":  0,
+      "fiber":    385
+    },
+    "eggs": {
+      "calorie":   12.6,
+      "protein":   520,
+      "calcium":    2.8,
+      "iron":      22,
+      "vitamin-a": 95.0,
+      "vitamin-c":  0,
+      "fiber":      0
+    },
+    "yogurt": {
+      "calorie":    8.2,
+      "protein":   380,
+      "calcium":   14.5,
+      "iron":       4,
+      "vitamin-a": 15.0,
+      "vitamin-c": 18,
+      "fiber":      0
+    }
+  },
+
+  "max_serving": {
+    "wheat":      0.15,
+    "cannedmilk": 0.08,
+    "cheese":     0.06,
+    "peanut-b":   0.10,
+    "liver":      0.05,
+    "potatoes":   0.12,
+    "spinach":    0.08,
+    "cabbage":    0.08,
+    "navybeans":  0.15,
+    "eggs":       0.10,
+    "yogurt":     0.08
+  },
+
+  "calorie_max": 4.5,
+  "min_foods":   4
+}

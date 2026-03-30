@@ -1,0 +1,95 @@
+{
+  "_comment": "Diet Epoch A — Month 1 (Spring). 10 foods, 6 nutrients. Pure LP.",
+
+  "nutrient_requirements": {
+    "calorie":   3,
+    "protein":  70,
+    "calcium":   0.8,
+    "iron":     12,
+    "vitamin-a": 5,
+    "vitamin-c": 75
+  },
+
+  "nutritive_values": {
+    "wheat": {
+      "calorie":   44.7,
+      "protein":  1411,
+      "calcium":    2.0,
+      "iron":     365,
+      "vitamin-a":  0,
+      "vitamin-c":  0
+    },
+    "cornmeal": {
+      "calorie":   36.0,
+      "protein":   897,
+      "calcium":    1.7,
+      "iron":      99,
+      "vitamin-a": 30.9,
+      "vitamin-c":  0
+    },
+    "cannedmilk": {
+      "calorie":    8.4,
+      "protein":   422,
+      "calcium":   15.1,
+      "iron":       9,
+      "vitamin-a": 26.0,
+      "vitamin-c": 60
+    },
+    "cheese": {
+      "calorie":    7.4,
+      "protein":   448,
+      "calcium":   16.4,
+      "iron":      19,
+      "vitamin-a": 28.1,
+      "vitamin-c":  0
+    },
+    "peanut-b": {
+      "calorie":   15.7,
+      "protein":   661,
+      "calcium":    1.0,
+      "iron":      48,
+      "vitamin-a":  0,
+      "vitamin-c":  0
+    },
+    "liver": {
+      "calorie":    2.2,
+      "protein":   333,
+      "calcium":    0.2,
+      "iron":     139,
+      "vitamin-a":169.2,
+      "vitamin-c":525
+    },
+    "potatoes": {
+      "calorie":   14.3,
+      "protein":   336,
+      "calcium":    1.8,
+      "iron":     118,
+      "vitamin-a":  6.7,
+      "vitamin-c":2522
+    },
+    "spinach": {
+      "calorie":    1.1,
+      "protein":   106,
+      "calcium":    0.0,
+      "iron":     138,
+      "vitamin-a":918.4,
+      "vitamin-c":2755
+    },
+    "cabbage": {
+      "calorie":    2.6,
+      "protein":   125,
+      "calcium":    4.0,
+      "iron":      36,
+      "vitamin-a":  7.2,
+      "vitamin-c":5369
+    },
+    "navybeans": {
+      "calorie":   26.9,
+      "protein":  1691,
+      "calcium":   11.4,
+      "iron":     792,
+      "vitamin-a":  0,
+      "vitamin-c":  0
+    }
+  }
+}

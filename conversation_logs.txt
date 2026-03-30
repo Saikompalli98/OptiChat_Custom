@@ -1,0 +1,136 @@
+2026-03-02 23:08:02.603 | WARNING  | rh_comparison.tools.epoch_tools:set_query_type:93 - [RH] Unknown query_type 'INVALID_TYPE'; defaulting to GENERAL.
+2026-03-02 23:08:02.603 | WARNING  | rh_comparison.tools.epoch_tools:set_query_type:93 - [RH] Unknown query_type 'INVALID_TYPE'; defaulting to GENERAL.
+2026-03-02 23:08:02.603 | WARNING  | rh_comparison.tools.epoch_tools:set_query_type:93 - [RH] Unknown query_type 'INVALID_TYPE'; defaulting to GENERAL.
+2026-03-02 23:08:02.603 | WARNING  | rh_comparison.tools.epoch_tools:set_query_type:93 - [RH] Unknown query_type 'INVALID_TYPE'; defaulting to GENERAL.
+2026-03-02 23:08:02.603 | WARNING  | rh_comparison.tools.epoch_tools:set_query_type:93 - [RH] Unknown query_type 'INVALID_TYPE'; defaulting to GENERAL.
+2026-03-02 23:08:02.604 | INFO     | rh_comparison.tools.epoch_tools:set_query_type:97 - [RH] Query type set to: GENERAL
+2026-03-02 23:08:02.604 | INFO     | rh_comparison.tools.epoch_tools:set_query_type:97 - [RH] Query type set to: GENERAL
+2026-03-02 23:08:02.604 | INFO     | rh_comparison.tools.epoch_tools:set_query_type:97 - [RH] Query type set to: GENERAL
+2026-03-02 23:08:02.604 | INFO     | rh_comparison.tools.epoch_tools:set_query_type:97 - [RH] Query type set to: GENERAL
+2026-03-02 23:08:02.604 | INFO     | rh_comparison.tools.epoch_tools:set_query_type:97 - [RH] Query type set to: GENERAL
+2026-03-02 23:08:02.604 | INFO     | rh_comparison.tools.epoch_tools:set_query_type:97 - [RH] Query type set to: GENERAL
+2026-03-02 23:08:02.604 | INFO     | rh_comparison.tools.epoch_tools:set_query_type:97 - [RH] Query type set to: GENERAL
+2026-03-02 23:08:02.604 | INFO     | rh_comparison.tools.epoch_tools:set_query_type:97 - [RH] Query type set to: GENERAL
+2026-03-02 23:08:02.604 | INFO     | rh_comparison.tools.epoch_tools:set_query_type:97 - [RH] Query type set to: GENERAL
+2026-03-02 23:08:02.604 | INFO     | rh_comparison.tools.epoch_tools:set_query_type:97 - [RH] Query type set to: GENERAL
+2026-03-02 23:08:02.604 | INFO     | rh_comparison.tools.epoch_tools:set_query_type:97 - [RH] Query type set to: MODEL_DESCRIPTION
+2026-03-02 23:08:02.604 | INFO     | rh_comparison.tools.epoch_tools:set_query_type:97 - [RH] Query type set to: MODEL_DESCRIPTION
+2026-03-02 23:08:02.604 | INFO     | rh_comparison.tools.epoch_tools:set_query_type:97 - [RH] Query type set to: MODEL_DESCRIPTION
+2026-03-02 23:08:02.604 | INFO     | rh_comparison.tools.epoch_tools:set_query_type:97 - [RH] Query type set to: MODEL_DESCRIPTION
+2026-03-02 23:08:02.604 | INFO     | rh_comparison.tools.epoch_tools:set_query_type:97 - [RH] Query type set to: MODEL_DESCRIPTION
+2026-03-02 23:08:02.604 | INFO     | rh_comparison.tools.epoch_tools:set_query_type:97 - [RH] Query type set to: STRUCTURAL_CHANGE
+2026-03-02 23:08:02.604 | INFO     | rh_comparison.tools.epoch_tools:set_query_type:97 - [RH] Query type set to: STRUCTURAL_CHANGE
+2026-03-02 23:08:02.604 | INFO     | rh_comparison.tools.epoch_tools:set_query_type:97 - [RH] Query type set to: STRUCTURAL_CHANGE
+2026-03-02 23:08:02.604 | INFO     | rh_comparison.tools.epoch_tools:set_query_type:97 - [RH] Query type set to: STRUCTURAL_CHANGE
+2026-03-02 23:08:02.604 | INFO     | rh_comparison.tools.epoch_tools:set_query_type:97 - [RH] Query type set to: STRUCTURAL_CHANGE
+2026-03-02 23:08:02.604 | INFO     | rh_comparison.tools.epoch_tools:set_query_type:97 - [RH] Query type set to: SOLUTION_DIFF
+2026-03-02 23:08:02.604 | INFO     | rh_comparison.tools.epoch_tools:set_query_type:97 - [RH] Query type set to: SOLUTION_DIFF
+2026-03-02 23:08:02.604 | INFO     | rh_comparison.tools.epoch_tools:set_query_type:97 - [RH] Query type set to: SOLUTION_DIFF
+2026-03-02 23:08:02.604 | INFO     | rh_comparison.tools.epoch_tools:set_query_type:97 - [RH] Query type set to: SOLUTION_DIFF
+2026-03-02 23:08:02.604 | INFO     | rh_comparison.tools.epoch_tools:set_query_type:97 - [RH] Query type set to: SOLUTION_DIFF
+2026-03-02 23:08:02.604 | INFO     | rh_comparison.tools.epoch_tools:set_query_type:97 - [RH] Query type set to: BACKWARD_COMPAT
+2026-03-02 23:08:02.604 | INFO     | rh_comparison.tools.epoch_tools:set_query_type:97 - [RH] Query type set to: BACKWARD_COMPAT
+2026-03-02 23:08:02.604 | INFO     | rh_comparison.tools.epoch_tools:set_query_type:97 - [RH] Query type set to: BACKWARD_COMPAT
+2026-03-02 23:08:02.604 | INFO     | rh_comparison.tools.epoch_tools:set_query_type:97 - [RH] Query type set to: BACKWARD_COMPAT
+2026-03-02 23:08:02.604 | INFO     | rh_comparison.tools.epoch_tools:set_query_type:97 - [RH] Query type set to: BACKWARD_COMPAT
+2026-03-02 23:08:02.604 | INFO     | rh_comparison.tools.epoch_tools:set_query_type:97 - [RH] Query type set to: ATTRIBUTION
+2026-03-02 23:08:02.604 | INFO     | rh_comparison.tools.epoch_tools:set_query_type:97 - [RH] Query type set to: ATTRIBUTION
+2026-03-02 23:08:02.604 | INFO     | rh_comparison.tools.epoch_tools:set_query_type:97 - [RH] Query type set to: ATTRIBUTION
+2026-03-02 23:08:02.604 | INFO     | rh_comparison.tools.epoch_tools:set_query_type:97 - [RH] Query type set to: ATTRIBUTION
+2026-03-02 23:08:02.604 | INFO     | rh_comparison.tools.epoch_tools:set_query_type:97 - [RH] Query type set to: ATTRIBUTION
+2026-03-02 23:08:02.617 | INFO     | rh_comparison.tools.rh_callback_tool:_build_epoch_store:193 - [RH] Loading model for epoch 'test_ph4_epoch_a' from: /Users/skompall/OptiChat_Custom/Feas/diet.py
+2026-03-02 23:08:02.617 | INFO     | rh_comparison.tools.rh_callback_tool:_build_epoch_store:193 - [RH] Loading model for epoch 'test_ph4_epoch_a' from: /Users/skompall/OptiChat_Custom/Feas/diet.py
+2026-03-02 23:08:02.617 | INFO     | rh_comparison.tools.rh_callback_tool:_build_epoch_store:193 - [RH] Loading model for epoch 'test_ph4_epoch_a' from: /Users/skompall/OptiChat_Custom/Feas/diet.py
+2026-03-02 23:08:02.617 | INFO     | rh_comparison.tools.rh_callback_tool:_build_epoch_store:193 - [RH] Loading model for epoch 'test_ph4_epoch_a' from: /Users/skompall/OptiChat_Custom/Feas/diet.py
+2026-03-02 23:08:02.617 | INFO     | rh_comparison.tools.rh_callback_tool:_build_epoch_store:193 - [RH] Loading model for epoch 'test_ph4_epoch_a' from: /Users/skompall/OptiChat_Custom/Feas/diet.py
+2026-03-02 23:08:02.618 | INFO     | rh_comparison.tools.rh_callback_tool:_build_epoch_store:193 - [RH] Loading model for epoch 'test_ph4_epoch_a' from: /Users/skompall/OptiChat_Custom/Feas/diet.py
+2026-03-02 23:08:02.618 | INFO     | rh_comparison.tools.rh_callback_tool:_build_epoch_store:193 - [RH] Loading model for epoch 'test_ph4_epoch_a' from: /Users/skompall/OptiChat_Custom/Feas/diet.py
+2026-03-02 23:08:02.618 | INFO     | rh_comparison.tools.rh_callback_tool:_build_epoch_store:193 - [RH] Loading model for epoch 'test_ph4_epoch_a' from: /Users/skompall/OptiChat_Custom/Feas/diet.py
+2026-03-02 23:08:02.618 | INFO     | rh_comparison.tools.rh_callback_tool:_build_epoch_store:193 - [RH] Loading model for epoch 'test_ph4_epoch_a' from: /Users/skompall/OptiChat_Custom/Feas/diet.py
+2026-03-02 23:08:02.618 | INFO     | rh_comparison.tools.rh_callback_tool:_build_epoch_store:193 - [RH] Loading model for epoch 'test_ph4_epoch_a' from: /Users/skompall/OptiChat_Custom/Feas/diet.py
+2026-03-02 23:08:02.618 | INFO     | rh_comparison.tools.rh_callback_tool:_build_epoch_store:193 - [RH] Loading model for epoch 'test_ph4_epoch_b' from: /Users/skompall/OptiChat_Custom/Feas/diet.py
+2026-03-02 23:08:02.618 | INFO     | rh_comparison.tools.rh_callback_tool:_build_epoch_store:193 - [RH] Loading model for epoch 'test_ph4_epoch_b' from: /Users/skompall/OptiChat_Custom/Feas/diet.py
+2026-03-02 23:08:02.618 | INFO     | rh_comparison.tools.rh_callback_tool:_build_epoch_store:193 - [RH] Loading model for epoch 'test_ph4_epoch_b' from: /Users/skompall/OptiChat_Custom/Feas/diet.py
+2026-03-02 23:08:02.618 | INFO     | rh_comparison.tools.rh_callback_tool:_build_epoch_store:193 - [RH] Loading model for epoch 'test_ph4_epoch_b' from: /Users/skompall/OptiChat_Custom/Feas/diet.py
+2026-03-02 23:08:02.618 | INFO     | rh_comparison.tools.rh_callback_tool:_build_epoch_store:193 - [RH] Loading model for epoch 'test_ph4_epoch_b' from: /Users/skompall/OptiChat_Custom/Feas/diet.py
+2026-03-02 23:28:12.530 | WARNING  | rh_comparison.tools.epoch_tools:set_query_type:93 - [RH] Unknown query_type 'BOGUS'; defaulting to GENERAL.
+2026-03-02 23:28:12.531 | INFO     | rh_comparison.tools.epoch_tools:set_query_type:97 - [RH] Query type set to: GENERAL
+2026-03-02 23:28:12.531 | INFO     | rh_comparison.tools.epoch_tools:set_query_type:97 - [RH] Query type set to: GENERAL
+2026-03-02 23:28:12.531 | INFO     | rh_comparison.tools.epoch_tools:set_query_type:97 - [RH] Query type set to: MODEL_DESCRIPTION
+2026-03-02 23:28:12.531 | INFO     | rh_comparison.tools.epoch_tools:set_query_type:97 - [RH] Query type set to: STRUCTURAL_CHANGE
+2026-03-02 23:28:12.531 | INFO     | rh_comparison.tools.epoch_tools:set_query_type:97 - [RH] Query type set to: SOLUTION_DIFF
+2026-03-02 23:28:12.531 | INFO     | rh_comparison.tools.epoch_tools:set_query_type:97 - [RH] Query type set to: BACKWARD_COMPAT
+2026-03-02 23:28:12.531 | INFO     | rh_comparison.tools.epoch_tools:set_query_type:97 - [RH] Query type set to: ATTRIBUTION
+2026-03-02 23:28:12.547 | INFO     | rh_comparison.tools.rh_callback_tool:_build_epoch_store:193 - [RH] Loading model for epoch 'test_ph4_a_1772512092' from: /Users/skompall/OptiChat_Custom/Feas/diet.py
+2026-03-02 23:28:12.777 | INFO     | rh_comparison.tools.rh_callback_tool:_build_epoch_store:201 - [RH] Epoch 'test_ph4_a_1772512092' solve status: optimal
+2026-03-02 23:28:12.777 | INFO     | rh_comparison.data_store.epoch_store:create_from_pyomo:536 - [EpochStore] Building epoch 'test_ph4_a_1772512092' (label='Diet Baseline')...
+2026-03-02 23:28:12.777 | INFO     | rh_comparison.data_store.epoch_store:_extract_solution:154 - [EpochStore] Pure LP detected — re-solving with dual suffix to extract shadow prices
+2026-03-02 23:28:12.845 | INFO     | rh_comparison.data_store.epoch_store:create_from_pyomo:555 - [EpochStore] Wrote solution.json, params.json, structure.json for 'test_ph4_a_1772512092'
+2026-03-02 23:28:12.848 | INFO     | rh_comparison.data_store.epoch_store:create_from_pyomo:561 - [EpochStore] Saved model.pkl for 'test_ph4_a_1772512092'
+2026-03-02 23:28:12.849 | INFO     | rh_comparison.data_store.epoch_store:create_from_pyomo:580 - [EpochStore] Registry updated for 'test_ph4_a_1772512092'
+2026-03-02 23:28:12.849 | INFO     | rh_comparison.data_store.epoch_store:create_from_pyomo:588 - [EpochStore] Epoch 'test_ph4_a_1772512092' ready. vars=21, cons=10, status=optimal
+2026-03-02 23:28:12.850 | INFO     | rh_comparison.tools.rh_callback_tool:_build_epoch_store:188 - [RH] Reusing existing epoch 'test_ph4_a_1772512092' from disk.
+2026-03-02 23:28:12.850 | INFO     | rh_comparison.tools.rh_callback_tool:_build_epoch_store:193 - [RH] Loading model for epoch 'test_ph4_b_1772512092' from: /Users/skompall/OptiChat_Custom/Feas/diet.py
+2026-03-02 23:28:12.921 | INFO     | rh_comparison.tools.rh_callback_tool:_build_epoch_store:201 - [RH] Epoch 'test_ph4_b_1772512092' solve status: optimal
+2026-03-02 23:28:12.921 | INFO     | rh_comparison.data_store.epoch_store:create_from_pyomo:536 - [EpochStore] Building epoch 'test_ph4_b_1772512092' (label='Diet Updated')...
+2026-03-02 23:28:12.922 | INFO     | rh_comparison.data_store.epoch_store:_extract_solution:154 - [EpochStore] Pure LP detected — re-solving with dual suffix to extract shadow prices
+2026-03-02 23:28:12.985 | INFO     | rh_comparison.data_store.epoch_store:create_from_pyomo:555 - [EpochStore] Wrote solution.json, params.json, structure.json for 'test_ph4_b_1772512092'
+2026-03-02 23:28:12.987 | INFO     | rh_comparison.data_store.epoch_store:create_from_pyomo:561 - [EpochStore] Saved model.pkl for 'test_ph4_b_1772512092'
+2026-03-02 23:28:12.988 | INFO     | rh_comparison.data_store.epoch_store:create_from_pyomo:580 - [EpochStore] Registry updated for 'test_ph4_b_1772512092'
+2026-03-02 23:28:12.988 | INFO     | rh_comparison.data_store.epoch_store:create_from_pyomo:588 - [EpochStore] Epoch 'test_ph4_b_1772512092' ready. vars=21, cons=10, status=optimal
+2026-03-02 23:28:12.989 | INFO     | rh_comparison.data_store.epoch_store:save_comparison:804 - [EpochStore] Saved qt1_structural.json for 'test_ph4_a_1772512092' vs 'test_ph4_b_1772512092'
+2026-03-02 23:28:12.989 | INFO     | rh_comparison.data_store.epoch_store:save_comparison:804 - [EpochStore] Saved qt2_solution.json for 'test_ph4_a_1772512092' vs 'test_ph4_b_1772512092'
+2026-03-02 23:32:21.740 | WARNING  | rh_comparison.tools.epoch_tools:set_query_type:93 - [RH] Unknown query_type 'BOGUS'; defaulting to GENERAL.
+2026-03-02 23:32:21.741 | INFO     | rh_comparison.tools.epoch_tools:set_query_type:97 - [RH] Query type set to: GENERAL
+2026-03-02 23:32:21.741 | INFO     | rh_comparison.tools.epoch_tools:set_query_type:97 - [RH] Query type set to: GENERAL
+2026-03-02 23:32:21.741 | INFO     | rh_comparison.tools.epoch_tools:set_query_type:97 - [RH] Query type set to: MODEL_DESCRIPTION
+2026-03-02 23:32:21.741 | INFO     | rh_comparison.tools.epoch_tools:set_query_type:97 - [RH] Query type set to: STRUCTURAL_CHANGE
+2026-03-02 23:32:21.741 | INFO     | rh_comparison.tools.epoch_tools:set_query_type:97 - [RH] Query type set to: SOLUTION_DIFF
+2026-03-02 23:32:21.741 | INFO     | rh_comparison.tools.epoch_tools:set_query_type:97 - [RH] Query type set to: BACKWARD_COMPAT
+2026-03-02 23:32:21.742 | INFO     | rh_comparison.tools.epoch_tools:set_query_type:97 - [RH] Query type set to: ATTRIBUTION
+2026-03-02 23:32:21.757 | INFO     | rh_comparison.tools.rh_callback_tool:_build_epoch_store:193 - [RH] Loading model for epoch 'test_ph4_a_1772512341' from: /Users/skompall/OptiChat_Custom/Feas/diet.py
+2026-03-02 23:32:21.861 | INFO     | rh_comparison.tools.rh_callback_tool:_build_epoch_store:201 - [RH] Epoch 'test_ph4_a_1772512341' solve status: optimal
+2026-03-02 23:32:21.861 | INFO     | rh_comparison.data_store.epoch_store:create_from_pyomo:536 - [EpochStore] Building epoch 'test_ph4_a_1772512341' (label='Diet Baseline')...
+2026-03-02 23:32:21.862 | INFO     | rh_comparison.data_store.epoch_store:_extract_solution:154 - [EpochStore] Pure LP detected — re-solving with dual suffix to extract shadow prices
+2026-03-02 23:32:21.926 | INFO     | rh_comparison.data_store.epoch_store:create_from_pyomo:555 - [EpochStore] Wrote solution.json, params.json, structure.json for 'test_ph4_a_1772512341'
+2026-03-02 23:32:21.929 | INFO     | rh_comparison.data_store.epoch_store:create_from_pyomo:561 - [EpochStore] Saved model.pkl for 'test_ph4_a_1772512341'
+2026-03-02 23:32:21.930 | INFO     | rh_comparison.data_store.epoch_store:create_from_pyomo:580 - [EpochStore] Registry updated for 'test_ph4_a_1772512341'
+2026-03-02 23:32:21.930 | INFO     | rh_comparison.data_store.epoch_store:create_from_pyomo:588 - [EpochStore] Epoch 'test_ph4_a_1772512341' ready. vars=21, cons=10, status=optimal
+2026-03-02 23:32:21.930 | INFO     | rh_comparison.tools.rh_callback_tool:_build_epoch_store:188 - [RH] Reusing existing epoch 'test_ph4_a_1772512341' from disk.
+2026-03-02 23:32:21.930 | INFO     | rh_comparison.tools.rh_callback_tool:_build_epoch_store:193 - [RH] Loading model for epoch 'test_ph4_b_1772512341' from: /Users/skompall/OptiChat_Custom/Feas/diet.py
+2026-03-02 23:32:21.995 | INFO     | rh_comparison.tools.rh_callback_tool:_build_epoch_store:201 - [RH] Epoch 'test_ph4_b_1772512341' solve status: optimal
+2026-03-02 23:32:21.995 | INFO     | rh_comparison.data_store.epoch_store:create_from_pyomo:536 - [EpochStore] Building epoch 'test_ph4_b_1772512341' (label='Diet Updated')...
+2026-03-02 23:32:21.995 | INFO     | rh_comparison.data_store.epoch_store:_extract_solution:154 - [EpochStore] Pure LP detected — re-solving with dual suffix to extract shadow prices
+2026-03-02 23:32:22.065 | INFO     | rh_comparison.data_store.epoch_store:create_from_pyomo:555 - [EpochStore] Wrote solution.json, params.json, structure.json for 'test_ph4_b_1772512341'
+2026-03-02 23:32:22.067 | INFO     | rh_comparison.data_store.epoch_store:create_from_pyomo:561 - [EpochStore] Saved model.pkl for 'test_ph4_b_1772512341'
+2026-03-02 23:32:22.068 | INFO     | rh_comparison.data_store.epoch_store:create_from_pyomo:580 - [EpochStore] Registry updated for 'test_ph4_b_1772512341'
+2026-03-02 23:32:22.068 | INFO     | rh_comparison.data_store.epoch_store:create_from_pyomo:588 - [EpochStore] Epoch 'test_ph4_b_1772512341' ready. vars=21, cons=10, status=optimal
+2026-03-02 23:32:22.069 | INFO     | rh_comparison.data_store.epoch_store:save_comparison:804 - [EpochStore] Saved qt1_structural.json for 'test_ph4_a_1772512341' vs 'test_ph4_b_1772512341'
+2026-03-02 23:32:22.069 | INFO     | rh_comparison.data_store.epoch_store:save_comparison:804 - [EpochStore] Saved qt2_solution.json for 'test_ph4_a_1772512341' vs 'test_ph4_b_1772512341'
+2026-03-02 23:34:22.709 | WARNING  | rh_comparison.tools.epoch_tools:set_query_type:93 - [RH] Unknown query_type 'BOGUS'; defaulting to GENERAL.
+2026-03-02 23:34:22.710 | INFO     | rh_comparison.tools.epoch_tools:set_query_type:97 - [RH] Query type set to: GENERAL
+2026-03-02 23:34:22.710 | INFO     | rh_comparison.tools.epoch_tools:set_query_type:97 - [RH] Query type set to: GENERAL
+2026-03-02 23:34:22.710 | INFO     | rh_comparison.tools.epoch_tools:set_query_type:97 - [RH] Query type set to: MODEL_DESCRIPTION
+2026-03-02 23:34:22.710 | INFO     | rh_comparison.tools.epoch_tools:set_query_type:97 - [RH] Query type set to: STRUCTURAL_CHANGE
+2026-03-02 23:34:22.710 | INFO     | rh_comparison.tools.epoch_tools:set_query_type:97 - [RH] Query type set to: SOLUTION_DIFF
+2026-03-02 23:34:22.710 | INFO     | rh_comparison.tools.epoch_tools:set_query_type:97 - [RH] Query type set to: BACKWARD_COMPAT
+2026-03-02 23:34:22.710 | INFO     | rh_comparison.tools.epoch_tools:set_query_type:97 - [RH] Query type set to: ATTRIBUTION
+2026-03-02 23:34:22.729 | INFO     | rh_comparison.tools.rh_callback_tool:_build_epoch_store:193 - [RH] Loading model for epoch 'test_ph4_a_1772512462' from: /Users/skompall/OptiChat_Custom/Feas/diet.py
+2026-03-02 23:34:22.847 | INFO     | rh_comparison.tools.rh_callback_tool:_build_epoch_store:201 - [RH] Epoch 'test_ph4_a_1772512462' solve status: optimal
+2026-03-02 23:34:22.848 | INFO     | rh_comparison.data_store.epoch_store:create_from_pyomo:536 - [EpochStore] Building epoch 'test_ph4_a_1772512462' (label='Diet Baseline')...
+2026-03-02 23:34:22.848 | INFO     | rh_comparison.data_store.epoch_store:_extract_solution:154 - [EpochStore] Pure LP detected — re-solving with dual suffix to extract shadow prices
+2026-03-02 23:34:22.924 | INFO     | rh_comparison.data_store.epoch_store:create_from_pyomo:555 - [EpochStore] Wrote solution.json, params.json, structure.json for 'test_ph4_a_1772512462'
+2026-03-02 23:34:22.927 | INFO     | rh_comparison.data_store.epoch_store:create_from_pyomo:561 - [EpochStore] Saved model.pkl for 'test_ph4_a_1772512462'
+2026-03-02 23:34:22.929 | INFO     | rh_comparison.data_store.epoch_store:create_from_pyomo:580 - [EpochStore] Registry updated for 'test_ph4_a_1772512462'
+2026-03-02 23:34:22.929 | INFO     | rh_comparison.data_store.epoch_store:create_from_pyomo:588 - [EpochStore] Epoch 'test_ph4_a_1772512462' ready. vars=21, cons=10, status=optimal
+2026-03-02 23:34:22.929 | INFO     | rh_comparison.tools.rh_callback_tool:_build_epoch_store:188 - [RH] Reusing existing epoch 'test_ph4_a_1772512462' from disk.
+2026-03-02 23:34:22.929 | INFO     | rh_comparison.tools.rh_callback_tool:_build_epoch_store:193 - [RH] Loading model for epoch 'test_ph4_b_1772512462' from: /Users/skompall/OptiChat_Custom/Feas/diet.py
+2026-03-02 23:34:23.001 | INFO     | rh_comparison.tools.rh_callback_tool:_build_epoch_store:201 - [RH] Epoch 'test_ph4_b_1772512462' solve status: optimal
+2026-03-02 23:34:23.001 | INFO     | rh_comparison.data_store.epoch_store:create_from_pyomo:536 - [EpochStore] Building epoch 'test_ph4_b_1772512462' (label='Diet Updated')...
+2026-03-02 23:34:23.001 | INFO     | rh_comparison.data_store.epoch_store:_extract_solution:154 - [EpochStore] Pure LP detected — re-solving with dual suffix to extract shadow prices
+2026-03-02 23:34:23.068 | INFO     | rh_comparison.data_store.epoch_store:create_from_pyomo:555 - [EpochStore] Wrote solution.json, params.json, structure.json for 'test_ph4_b_1772512462'
+2026-03-02 23:34:23.070 | INFO     | rh_comparison.data_store.epoch_store:create_from_pyomo:561 - [EpochStore] Saved model.pkl for 'test_ph4_b_1772512462'
+2026-03-02 23:34:23.071 | INFO     | rh_comparison.data_store.epoch_store:create_from_pyomo:580 - [EpochStore] Registry updated for 'test_ph4_b_1772512462'
+2026-03-02 23:34:23.071 | INFO     | rh_comparison.data_store.epoch_store:create_from_pyomo:588 - [EpochStore] Epoch 'test_ph4_b_1772512462' ready. vars=21, cons=10, status=optimal
+2026-03-02 23:34:23.071 | INFO     | rh_comparison.data_store.epoch_store:save_comparison:804 - [EpochStore] Saved qt1_structural.json for 'test_ph4_a_1772512462' vs 'test_ph4_b_1772512462'
+2026-03-02 23:34:23.072 | INFO     | rh_comparison.data_store.epoch_store:save_comparison:804 - [EpochStore] Saved qt2_solution.json for 'test_ph4_a_1772512462' vs 'test_ph4_b_1772512462'
